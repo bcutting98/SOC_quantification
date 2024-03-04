@@ -1,2 +1,2 @@
 # SOC_quantification
-Supplementary data to "Remote Quantification of Soil Organic Carbon: Role of Topography in the Intra-field Distribution" 
+Dupplementary data to "Remote Quantification of Soil Organic Carbon: Role of Topography in the Intra-field Distribution". Includes topographical LiDAR data for study site.
